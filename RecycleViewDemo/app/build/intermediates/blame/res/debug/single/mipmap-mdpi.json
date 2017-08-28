@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gyh/like3/RecycleViewDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/gyh/like3/RecycleViewDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gyh/like3/RecycleViewDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/gyh/like3/RecycleViewDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
